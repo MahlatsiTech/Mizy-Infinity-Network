@@ -1,4 +1,4 @@
-♾️ Mizy Infinity Network (MIN)
+ Mizy Infinity Network (MIN)
 
 Sovereign Energy. Intelligent Wealth. Built on BNB Chain.
 
