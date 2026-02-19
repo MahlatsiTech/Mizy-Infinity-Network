@@ -45,5 +45,3 @@ Dual-utility blockchain protocol for energy and water tracking on BNB Chain.
 - [x] Competition wallet: `0x2E20e9D6C37fE79ed3e91F75Ec332c51B7a77c35`
 
 **Status:** Ready for submission
-
-
