@@ -1,45 +1,31 @@
- Mizy Infinity Network (MIN)
+# Mizy Infinity Network
 
-Sovereign Energy. Intelligent Wealth. Built on BNB Chain.
+Dual-utility blockchain protocol for energy and water tracking on BNB Chain.
 
-🌍 Vision
+**Founder:** Nthabiseng Mahlatsi | **Location:** Soweto, South Africa  
+**Competition:** BNB Chain Smart Builders Challenge  
+**Wallet:** `0x2E20e9D6C37fE79ed3e91F75Ec332c51B7a77c35`
 
-Mizy Infinity is a decentralized Energy-Fi protocol designed to bridge the gap between high-level AI automation and physical electrical infrastructure in emerging markets. Our mission is to move 1.2 billion people from energy poverty to energy sovereignty.
+## Problem
+- 600 million Africans lack reliable electricity
+- No transparent utility tracking exists
 
-👷 Founder: The Engineering Edge
+## Solution
+- Track energy (kWh) and water (liters) on blockchain
+- Each household = Sovereign Node with unique ID
+- Real-time transparent billing
 
-Unlike standard Web3 projects, MIN is founded by Nthabiseng Mahlatsi, a Red Seal Certified Electrical Engineer based in South Africa. This ensures that every Real-World Asset (RWA) integrated into the network meets the highest professional safety and efficiency standards.
+## Contract
+- `MizyNexus.sol` - Solidity 0.8.20
+- Tested on Remix VM
+- BNB Chain compatible
 
-🤖 The Technology: "Dual-Arbitrage"
+## Functions
+- `registerNode("ID")` - Register household
+- `payUtility("ID", amount, isWater)` - Record usage
+- `getNodeDetails("ID")` - View data
 
-The heart of the network is the Mizy Guardian AI, a Python-based autonomous agent that manages a dual-yield strategy:
+## Contact
+- Email: tholwana28@gmail.com
+- Phone: +27 62 821 3248
 
-DeFi Arbitrage: Utilizing BNB Chain's low-latency environment to generate seed capital through market volatility.
-
-RWA Arbitrage: Managing physical battery storage to sell power back to local grids during peak demand (Load Shedding mitigation).
-
-⛓️ Why BNB Chain?
-
-We utilize the BNB Smart Chain for its:
-
-Low Gas Fees: Essential for micro-energy payments.
-
-High Speed: Necessary for real-time grid response.
-
-RWA Ecosystem: Providing a robust framework for tokenized physical assets.
-
-🚀 Roadmap
-
-Phase 1: AI Core Prototype (Python Engine) - [CURRENT]
-
-Phase 2: Hardware API Integration (Solar Inverter Connectivity)
-
-Phase 3: Pilot Deployment (10 Household Nodes in Soweto)
-
-Phase 4: Pan-African Scaling via BNB Chain Payments
-
-Founder: Nthabiseng Mahlatsi
-
-Location: Soweto, South Africa
-
-License: MIT
