@@ -32,3 +32,18 @@ Dual-utility blockchain protocol for energy and water tracking on BNB Chain.
 - Email: tholwana28@gmail.com
 - Phone: +27 62 821 3248
 
+---
+
+## Submission Checklist
+
+- [x] Smart contract deployed and tested
+- [x] 4+ successful transactions on Remix VM
+- [x] BNB Chain compatible
+- [x] Pitch deck uploaded
+- [x] Executive summary uploaded
+- [x] Demo video recorded
+- [x] Competition wallet: `0x2E20e9D6C37fE79ed3e91F75Ec332c51B7a77c35`
+
+**Status:** Ready for submission
+
+
