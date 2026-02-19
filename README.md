@@ -1,4 +1,7 @@
-# Mizy Infinity Network
+# ⚡ Mizy Infinity Network (MIN)
+
+**Dual-Utility Blockchain Infrastructure Protocol | BNB Chain Smart Builders Challenge**
+
 
 Dual-utility blockchain protocol for energy and water tracking on BNB Chain.
 
