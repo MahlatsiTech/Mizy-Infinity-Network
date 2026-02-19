@@ -1,0 +1,14 @@
+{
+  "name": "mizy-infinity-network",
+  "version": "1.0.0",
+  "description": "Dual-utility blockchain protocol for energy and water tracking",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "author": "Nthabiseng Mahlatsi",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
